@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PISLawyerView.FormArchiveList">
+    <Position X="9.25" Y="3.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAAAAAAACAAAACAAAIQAAAAEAAAAAAAAA=</HashCode>
+      <FileName>FormArchiveList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormDiagrams">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACBQAACAAABACAACAAAAiAAAYIAAAAEAAAAQAAAA=</HashCode>
+      <FileName>FormDiagrams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormFillingContracts">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAQEYAECAYoFECAACCEgICAAgABAACIAAkAAQEAAA=</HashCode>
+      <FileName>FormFillingContracts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormListClients">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAQAQEECAQIEAACALAEgICIIgREAYCAUAiAAAAAAE=</HashCode>
+      <FileName>FormListClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormListContracts">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAACAQAAACAACAAgACAAgQAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>FormListContracts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormMainLawyer">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EQAAgEQAAKAAGEIYAACAIAACAACAAAAAAAAAEABAAAA=</HashCode>
+      <FileName>FormMainLawyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.FormReports">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAACAAAEECAACAAAACAEC4cAgAAAAAAAQAAAA=</HashCode>
+      <FileName>FormReports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.Program">
+    <Position X="2.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.Properties.Resources" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISLawyerView.Properties.Settings" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

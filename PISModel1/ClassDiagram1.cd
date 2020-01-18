@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PISModel1.Model.ModelClient">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAABAAIAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ModelClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelContractAgent">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAQAAAAAAEAIAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ModelContractAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelContractClient">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACCAAAAAAQAAAAgAEAAAAAAAAAAAAAAAAAAAAAEAQ=</HashCode>
+      <FileName>Model\ModelContractClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelDirectory">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACACAAAAAAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAA=</HashCode>
+      <FileName>Model\ModelDirectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelServices">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAA=</HashCode>
+      <FileName>Model\ModelServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelStatements">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAI=</HashCode>
+      <FileName>Model\ModelStatements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelStatementsTab">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAAAEAAAACAAAQAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Model\ModelStatementsTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PISModel1.Model.ModelUser">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAEAEAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Model\ModelUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISLawyerView", "PISLawyerView\PISLawyerView.csproj", "{9B7148AA-20A0-425F-A621-3E2931DB2F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISAccountantView", "PISAccountantView\PISAccountantView.csproj", "{0462F0BC-AB7B-4BA3-BC22-7B215CE3BDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISManagerView", "PISManagerView\PISManagerView.csproj", "{9E85DF03-5E35-4DA7-A35F-842F651D9B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISController1", "PISController1\PISController1.csproj", "{B7190F61-0542-469E-8DB8-264F3B675650}"
+	ProjectSection(ProjectDependencies) = postProject
+		{008F1DE8-4CF0-4348-B95C-4819E0A18F09} = {008F1DE8-4CF0-4348-B95C-4819E0A18F09}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISModel1", "PISModel1\PISModel1.csproj", "{008F1DE8-4CF0-4348-B95C-4819E0A18F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISMainView", "PISMainView\PISMainView.csproj", "{4A07462C-A295-4AF8-A1C7-BF2596B47772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7148AA-20A0-425F-A621-3E2931DB2F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7148AA-20A0-425F-A621-3E2931DB2F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7148AA-20A0-425F-A621-3E2931DB2F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7148AA-20A0-425F-A621-3E2931DB2F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0462F0BC-AB7B-4BA3-BC22-7B215CE3BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0462F0BC-AB7B-4BA3-BC22-7B215CE3BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0462F0BC-AB7B-4BA3-BC22-7B215CE3BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0462F0BC-AB7B-4BA3-BC22-7B215CE3BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E85DF03-5E35-4DA7-A35F-842F651D9B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E85DF03-5E35-4DA7-A35F-842F651D9B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E85DF03-5E35-4DA7-A35F-842F651D9B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E85DF03-5E35-4DA7-A35F-842F651D9B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7190F61-0542-469E-8DB8-264F3B675650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7190F61-0542-469E-8DB8-264F3B675650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7190F61-0542-469E-8DB8-264F3B675650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7190F61-0542-469E-8DB8-264F3B675650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008F1DE8-4CF0-4348-B95C-4819E0A18F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008F1DE8-4CF0-4348-B95C-4819E0A18F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008F1DE8-4CF0-4348-B95C-4819E0A18F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008F1DE8-4CF0-4348-B95C-4819E0A18F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A07462C-A295-4AF8-A1C7-BF2596B47772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A07462C-A295-4AF8-A1C7-BF2596B47772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A07462C-A295-4AF8-A1C7-BF2596B47772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A07462C-A295-4AF8-A1C7-BF2596B47772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2511DC4A-8F2E-433F-9522-20D7430DC96B}
+	EndGlobalSection
+EndGlobal
